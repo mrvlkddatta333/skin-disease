@@ -1,0 +1,6 @@
+flask
+ultralytics
+opencv-contrib-python
+pandas
+mysql-connector-python
+Flask-Session
